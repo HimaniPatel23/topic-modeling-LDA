@@ -1,7 +1,10 @@
 # Topic Modeling Using LDA (Latent Dirichlet Allocation)
 
-![LDA](https://3.bp.blogspot.com/-5ZSDw3tP1ho/V1WU4aNqPbI/AAAAAAAAAP0/5phmpChHY_IoTyVztSxZIapC1LYqKpVoQCLcB/s1600/lda.jpg)<br/>
-<b>Latent Dirichlet Allocation (otherwise known as LDA) is a form of unsupervised learning that views documents as bags of words. LDA works by first making a key assumption: the way a document was generated was by picking a set of topics and then for each topic picking a set of words.</b> 
+<br/>
+<b>Latent Dirichlet Allocation (otherwise known as LDA) is a form of unsupervised learning that views documents as bags of words. LDA works by first making a key assumption: the way a document was generated was by picking a set of topics and then for each topic picking a set of words.</b><br/>
+
+![LDA](https://3.bp.blogspot.com/-5ZSDw3tP1ho/V1WU4aNqPbI/AAAAAAAAAP0/5phmpChHY_IoTyVztSxZIapC1LYqKpVoQCLcB/s1600/lda.jpg)
+
 * Source: <a href=https://towardsdatascience.com/lda-topic-modeling-an-explanation-e184c90aadcd>LDA Topic Modeling</a>
 ## Dataset <br/>
 </t> The dataset contains details about research papers and related metadata. Since these papers are collected irrespective of their field, our goal as data scientist is to use this dataset to create a topic modeling (which will allows us to have a better intuition about distribution of topics in research papers). 
